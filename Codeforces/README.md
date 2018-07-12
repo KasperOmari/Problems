@@ -17,6 +17,8 @@ Those are my accepted solutions for codeforces problems
 
 8) http://codeforces.com/contest/455/problem/A -> A - Boredom
 
+9) http://codeforces.com/problemset/problem/236/A -> A - Boy or Girl
+
 9) http://codeforces.com/contest/149/problem/A -> A - Business trip
 
 10) http://codeforces.com/contest/845/problem/A -> A - Chess Tourney
